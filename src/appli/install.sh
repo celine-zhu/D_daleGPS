@@ -6,6 +6,7 @@ pip3 install Flask-Images
 pip3 install geopandas
 pip3 install imutils
 pip3 install opencv-python
+pip3 install matplotlib
 echo 'env/' >> .gitignore  
 pip3 freeze 
 pip3 freeze > requirements.txt 
